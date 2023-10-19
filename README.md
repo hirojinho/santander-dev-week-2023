@@ -25,7 +25,7 @@ Nosso protótipo da Cinema Explorer API está funcionando online, hospedado no R
 
 ## Acesso
 
-Clique [aqui](seu-link-aqui) para acessar a Cinema Explorer API e começar a explorar o mundo do cinema. Divirta-se descobrindo e gerenciando informações sobre seus filmes favoritos.
+Clique [aqui](https://sdw-hiroji-2023.up.railway.app/swagger-ui/index.html) para acessar a Cinema Explorer API e começar a explorar o mundo do cinema. Divirta-se descobrindo e gerenciando informações sobre seus filmes favoritos.
 
 ## Como Usar
 
